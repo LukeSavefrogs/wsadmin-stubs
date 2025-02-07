@@ -19,7 +19,7 @@ keywords = ["wsadmin", "ibm", "stubs", "types", "jython", "autocompletion", "int
 
 
 [tool.poetry.dependencies]
-python = ">=3.8,<=3.11"
+python = ">=3.13,<=3.13.2"
 
 
 [tool.poetry.group.dev]
